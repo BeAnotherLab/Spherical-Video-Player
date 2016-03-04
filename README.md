@@ -5,8 +5,8 @@ Player for pre-recorded VR videos that runs on the Oculus DK2 on runtime 0.4.4
 3. For working directly on the Max Patcher, install the Oculus Max object: https://github.com/grrrwaaa/max_oculus
 
 
-__
-Known issues:
+-Known issues:
 
 Playback is slow on Windows as the current version of Max only runs in 32 bit. 
-360 degree videos also reduce framrate in comparisson to 180 degree
+
+360 degree videos also reduce framerate in comparisson to 180 degree.
